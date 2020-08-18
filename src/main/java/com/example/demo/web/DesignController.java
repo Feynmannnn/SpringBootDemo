@@ -1,7 +1,5 @@
 package com.example.demo.web;
 
-import javax.validation.Valid;
-
 import com.example.demo.Ingredient;
 import com.example.demo.Ingredient.Type;
 import lombok.extern.slf4j.Slf4j;
